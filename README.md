@@ -1,8 +1,11 @@
 # Medi-Reminder-Application
-The Medi Reminder Application was developed by using Android Studio software development platform. The app functions as a reminder system, enabling users to input their medication information and set customized timers to alert them when it is time to take their prescribed dosage.
-Features
-Set reminders for taking medications
-Customize reminder schedules based on medication type, dosage, and frequency
++## Medi-Reminder-Application
++ The Medi Reminder Application was developed by using Android Studio software development platform.
++ The app functions as a reminder system, enabling users to input their medication information
++ and set customized timers to alert them when it is time to take their prescribed dosage.
+## Features
+-- Input Medication details (name,dosage,frequency)
+--Set reminders for taking medications
 Track medication history and adherence
 Receive push notifications for upcoming medication doses
 Integrated with a medication database for easy reference and information
